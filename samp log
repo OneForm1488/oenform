@@ -1,0 +1,406 @@
+Storage: /storage/emulated/0/Android/data/com.rockstargames.gtasa/files/
+Loading settings..
+Checking samp files..
+Loading "samp" cd..
+Creating "MultiPlayer" button.. (struct: 0xC3C9774C)
+GetTexture: menu_mainmp
+MainMenu: MultiPlayer selected.
+CGame: InitInMenu
+Installing patches..
+SetUpHook: 0xC7C3B3DC -> 0xC7905861
+SetUpHook: 0xC7DD7CA8 -> 0xC7905D01
+SetUpHook: 0xC7D9AEF4 -> 0xC7905A69
+SetUpHook: 0xC7D9B098 -> 0xC7905A91
+SetUpHook: 0xC7C39D5C -> 0xC7905D99
+SetUpHook: 0xC7C8E83C -> 0xC7905DF9
+SetUpHook: 0xC7D36690 -> 0xC7905F09
+SetUpHook: 0xC7DDBA88 -> 0xC7905FA1
+SetUpHook: 0xC7DDAF84 -> 0xC7905FA5
+SetUpHook: 0xC7DDE9A8 -> 0xC7906135
+SetUpHook: 0xC7E82E60 -> 0xC790626D
+SetUpHook: 0xC7E833CC -> 0xC790629D
+CodeInject: 0xC7CD99F4 -> 0xc79061a1 (register: r1)
+SetUpHook: 0xC7E5A280 -> 0xC7906F51
+InstallMethodHook: func: 0xC7FCCA1C -> 0xC7907011
+InstallMethodHook: func: 0xC7FCCD74 -> 0xC7907011
+InstallMethodHook: func: 0xC7FCCB44 -> 0xC7907011
+InstallMethodHook: func: 0xC7FCD0DC -> 0xC7907011
+InstallMethodHook: func: 0xC7FCCE8C -> 0xC7907011
+InstallMethodHook: func: 0xC7FCCC5C -> 0xC7907011
+InstallMethodHook: func: 0xC7FCCFB4 -> 0xC7907011
+InstallMethodHook: func: 0xC7FCD204 -> 0xC7907011
+InstallMethodHook: func: 0xC7FCD454 -> 0xC7907011
+SetUpHook: 0xC7D9D08C -> 0xC7906851
+SetUpHook: 0xC7D9D110 -> 0xC79068C9
+SetUpHook: 0xC7D9EAA4 -> 0xC7906941
+SetUpHook: 0xC7D9E9B8 -> 0xC790699D
+SetUpHook: 0xC7D9E96C -> 0xC7906A29
+SetUpHook: 0xC7D9E824 -> 0xC7906A9D
+SetUpHook: 0xC7D9E8C0 -> 0xC7906AF9
+SetUpHook: 0xC7D9EA0C -> 0xC7906B55
+SetUpHook: 0xC7D9EA4C -> 0xC7906BB1
+SetUpHook: 0xC7D9DD9C -> 0xC7906C3D
+SetUpHook: 0xC7D9E7B0 -> 0xC7906C0D
+SetUpHook: 0xC7D9DB50 -> 0xC7906CC1
+SetUpHook: 0xC7D9C9E4 -> 0xC7906D1D
+SetUpHook: 0xC7D9CBF0 -> 0xC7906D69
+SetUpHook: 0xC7D9DB7C -> 0xC7906DAD
+SetUpHook: 0xC7D9D938 -> 0xC7906DFD
+SetUpHook: 0xC7D9D754 -> 0xC7906E4D
+SetUpHook: 0xC7D9D4C8 -> 0xC7906E9D
+SetUpHook: 0xC7D9DA1C -> 0xC7906EF5
+Loading splash texture..
+GetTexture: mylogo
+Initializing GUI..
+GUI | Display size: 1919.000000, 1080.000000
+GUI | Scale factor: 0.999479, 1.000000 Font size: 30.000000
+GUI | Loading font: Arial.ttf
+GUI | ImFont pointer = 0xE8DD20E0
+Initalizing KeyBoard..
+Size: 1919.000000, 594.000000. Pos: 0.000000, 486.000000
+font size: 70.000000. Key's height: 118.800003
+Initializng Chat Window..
+Chat pos: 324.830719, 25.000000, size: 1149.401001, 220.000000
+Initializing Spawn Screen..
+Spawn Screen pos: 659.656189, 950.000000, size: 599.687439, 100.000000
+Loading afk_icon..
+GetTexture: afk_icon
+GUI | CreateDeviceObjects.
+GUI | Font atlas width: 512, height: 512, depth: 32
+GUI | Vertex buffer reallocated. Size: 5244
+Loading vehicles.ide..
+Loading peds.ide..
+loading skin model 0
+loading skin model 1
+loading skin model 2
+loading skin model 3
+loading skin model 4
+loading skin model 5
+loading skin model 6
+loading skin model 8
+loading skin model 42
+loading skin model 65
+loading skin model 86
+loading skin model 119
+loading skin model 149
+loading skin model 208
+loading skin model 273
+loading skin model 289
+loading skin model 7
+loading skin model 9
+loading skin model 10
+loading skin model 11
+loading skin model 12
+loading skin model 13
+loading skin model 14
+loading skin model 15
+loading skin model 16
+loading skin model 17
+loading skin model 18
+loading skin model 19
+loading skin model 20
+loading skin model 21
+loading skin model 22
+loading skin model 23
+loading skin model 24
+loading skin model 25
+loading skin model 26
+loading skin model 27
+loading skin model 28
+loading skin model 29
+loading skin model 30
+loading skin model 31
+loading skin model 32
+loading skin model 33
+loading skin model 34
+loading skin model 35
+loading skin model 36
+loading skin model 37
+loading skin model 38
+loading skin model 39
+loading skin model 40
+loading skin model 41
+loading skin model 43
+loading skin model 44
+loading skin model 45
+loading skin model 46
+loading skin model 47
+loading skin model 48
+loading skin model 49
+loading skin model 50
+loading skin model 51
+loading skin model 52
+loading skin model 53
+loading skin model 54
+loading skin model 55
+loading skin model 56
+loading skin model 57
+loading skin model 58
+loading skin model 59
+loading skin model 60
+loading skin model 61
+loading skin model 62
+loading skin model 63
+loading skin model 64
+loading skin model 66
+loading skin model 67
+loading skin model 68
+loading skin model 69
+loading skin model 70
+loading skin model 71
+loading skin model 72
+loading skin model 73
+loading skin model 75
+loading skin model 76
+loading skin model 77
+loading skin model 78
+loading skin model 79
+loading skin model 80
+loading skin model 81
+loading skin model 82
+loading skin model 83
+loading skin model 84
+loading skin model 85
+loading skin model 87
+loading skin model 88
+loading skin model 89
+loading skin model 90
+loading skin model 91
+loading skin model 92
+loading skin model 93
+loading skin model 94
+loading skin model 95
+loading skin model 96
+loading skin model 97
+loading skin model 98
+loading skin model 99
+loading skin model 100
+loading skin model 101
+loading skin model 102
+loading skin model 103
+loading skin model 104
+loading skin model 105
+loading skin model 106
+loading skin model 107
+loading skin model 108
+loading skin model 109
+loading skin model 110
+loading skin model 111
+loading skin model 112
+loading skin model 113
+loading skin model 114
+loading skin model 115
+loading skin model 116
+loading skin model 117
+loading skin model 118
+loading skin model 120
+loading skin model 121
+loading skin model 122
+loading skin model 123
+loading skin model 124
+loading skin model 125
+loading skin model 126
+loading skin model 127
+loading skin model 128
+loading skin model 129
+loading skin model 130
+loading skin model 131
+loading skin model 132
+loading skin model 133
+loading skin model 134
+loading skin model 135
+loading skin model 136
+loading skin model 137
+loading skin model 138
+loading skin model 139
+loading skin model 140
+loading skin model 141
+loading skin model 142
+loading skin model 143
+loading skin model 144
+loading skin model 145
+loading skin model 146
+loading skin model 147
+loading skin model 148
+loading skin model 150
+loading skin model 151
+loading skin model 152
+loading skin model 153
+loading skin model 154
+loading skin model 155
+loading skin model 156
+loading skin model 157
+loading skin model 158
+loading skin model 159
+loading skin model 160
+loading skin model 161
+loading skin model 162
+loading skin model 163
+loading skin model 164
+loading skin model 165
+loading skin model 166
+loading skin model 167
+loading skin model 168
+loading skin model 169
+loading skin model 170
+loading skin model 171
+loading skin model 172
+loading skin model 173
+loading skin model 174
+loading skin model 175
+loading skin model 176
+loading skin model 177
+loading skin model 178
+loading skin model 179
+loading skin model 180
+loading skin model 181
+loading skin model 182
+loading skin model 183
+loading skin model 184
+loading skin model 185
+loading skin model 186
+loading skin model 187
+loading skin model 188
+loading skin model 189
+loading skin model 190
+loading skin model 191
+loading skin model 192
+loading skin model 193
+loading skin model 194
+loading skin model 195
+loading skin model 196
+loading skin model 197
+loading skin model 198
+loading skin model 199
+loading skin model 200
+loading skin model 201
+loading skin model 202
+loading skin model 203
+loading skin model 204
+loading skin model 205
+loading skin model 206
+loading skin model 207
+loading skin model 209
+loading skin model 210
+loading skin model 211
+loading skin model 212
+loading skin model 213
+loading skin model 214
+loading skin model 215
+loading skin model 216
+loading skin model 217
+loading skin model 218
+loading skin model 219
+loading skin model 220
+loading skin model 221
+loading skin model 222
+loading skin model 223
+loading skin model 224
+loading skin model 225
+loading skin model 226
+loading skin model 227
+loading skin model 228
+loading skin model 229
+loading skin model 230
+loading skin model 231
+loading skin model 232
+loading skin model 233
+loading skin model 234
+loading skin model 235
+loading skin model 236
+loading skin model 237
+loading skin model 238
+loading skin model 239
+loading skin model 240
+loading skin model 241
+loading skin model 242
+loading skin model 243
+loading skin model 244
+loading skin model 245
+loading skin model 246
+loading skin model 247
+loading skin model 248
+loading skin model 249
+loading skin model 250
+loading skin model 251
+loading skin model 252
+loading skin model 253
+loading skin model 254
+loading skin model 255
+loading skin model 256
+loading skin model 257
+loading skin model 258
+loading skin model 259
+loading skin model 260
+loading skin model 261
+loading skin model 262
+loading skin model 263
+loading skin model 264
+loading skin model 265
+loading skin model 266
+loading skin model 267
+loading skin model 268
+loading skin model 269
+loading skin model 270
+loading skin model 271
+loading skin model 272
+loading skin model 274
+loading skin model 275
+loading skin model 276
+loading skin model 277
+loading skin model 278
+loading skin model 279
+loading skin model 280
+loading skin model 281
+loading skin model 282
+loading skin model 283
+loading skin model 284
+loading skin model 285
+loading skin model 286
+loading skin model 287
+loading skin model 288
+loading skin model 290
+loading skin model 291
+loading skin model 292
+loading skin model 293
+loading skin model 294
+loading skin model 295
+loading skin model 296
+loading skin model 297
+loading skin model 298
+loading skin model 299
+loading skin model 300
+loading skin model 301
+loading skin model 302
+loading skin model 303
+loading skin model 304
+loading skin model 305
+loading skin model 306
+loading skin model 307
+loading skin model 308
+loading skin model 309
+loading skin model 310
+loading skin model 311
+Loading script.img..
+Loading script.img..
+Loading mainV1.scm..
+Loading mainV1.scm..
+Loading mainV1.scm..
+CGame: InitInGame
+Installing patches (ingame)..
+Registering RPC's..
+Registering ScriptRPC's..
+Incoming packet: ID_AUTH_KEY
+[AUTH] 47CD58E96A6210D0 -> 6470590097A8DB97B754B04C3D77DB2ACC370E03
+RPC: ScrSetPlayerColor
+RPC_SCRCREATEOBJECT
+SIGSEGV | Fault address: 0x22
+libGTASA base address: 0xC7A00000
+register states:
+r0: 0x4BF6, r1: 0x0, r2: 0xC827BF48, r3: 0x4BF6
+r4: 0xc7fcd760, r5: 0xc0f48900, r6: 0xc81159e8, r7: 0xc3c96e98
+r8: 0x19, r9: 0x1, sl: 0x4bf6, fp: 0x0
+ip: 0x0, sp: 0xc3c96e98, lr: 0xff, pc: 0xc7ce5b62
+backtrace:
+1: libGTASA.so + 0x2E5B62
+2: libGTASA.so + 0x386000FF
